@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		D6D9C14F2895BCAB006AD531 /* HabitsStore.swift in Sources */ = {isa = PBXBuildFile; fileRef = D6D9C14E2895BCAB006AD531 /* HabitsStore.swift */; };
 		D6EDBCE62895AC69006D579A /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = D6EDBCE52895AC69006D579A /* AppDelegate.swift */; };
 		D6EDBCE82895AC69006D579A /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = D6EDBCE72895AC69006D579A /* SceneDelegate.swift */; };
 		D6EDBCEA2895AC69006D579A /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D6EDBCE92895AC69006D579A /* ViewController.swift */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		D6D9C14E2895BCAB006AD531 /* HabitsStore.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = HabitsStore.swift; sourceTree = "<group>"; };
 		D6EDBCE22895AC69006D579A /* MyHabits.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MyHabits.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		D6EDBCE52895AC69006D579A /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		D6EDBCE72895AC69006D579A /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -56,6 +58,7 @@
 		D6EDBCE42895AC69006D579A /* MyHabits */ = {
 			isa = PBXGroup;
 			children = (
+				D6D9C14E2895BCAB006AD531 /* HabitsStore.swift */,
 				D6EDBCE52895AC69006D579A /* AppDelegate.swift */,
 				D6EDBCE72895AC69006D579A /* SceneDelegate.swift */,
 				D6EDBCE92895AC69006D579A /* ViewController.swift */,
@@ -138,6 +141,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D6D9C14F2895BCAB006AD531 /* HabitsStore.swift in Sources */,
 				D6EDBCEA2895AC69006D579A /* ViewController.swift in Sources */,
 				D6EDBCE62895AC69006D579A /* AppDelegate.swift in Sources */,
 				D6EDBCE82895AC69006D579A /* SceneDelegate.swift in Sources */,
